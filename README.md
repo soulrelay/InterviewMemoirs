@@ -1,6 +1,6 @@
 # InterviewMemoirs
 
-#<font color=#C4573C size=5 face="黑体">前言</font>
+# <font color=#C4573C size=5 face="黑体">前言</font>
 
 写这篇面试回忆录的目的：
 >* 梳理一下面试过程的知识点，为了以后可以更直观地回忆
@@ -12,9 +12,9 @@
 >* 主要面向人群: 面试【高级工程师】或者【资深工程师】等相关职位
 >* 没有严格按照一面、二面、三面来区分
 
-#<font color=#C4573C size=5 face="黑体">目录</font>
+# <font color=#C4573C size=5 face="黑体">目录</font>
 
-##<font color=#C4573C size=4 face="黑体">腾讯OMG</font>
+## <font color=#C4573C size=4 face="黑体">腾讯OMG</font>
 
 >* ☐ synchronize用法
 >* ☐ volatile用法
@@ -25,7 +25,7 @@
 >* ☐ listview图片加载错乱的原理和解决方案
 >* ☐ https相关，如何验证证书的合法性，https中哪里用了对称加密，哪里用了非对称加密，对加密算法（如RSA）等是否有了解
 
-##<font color=#C4573C size=4 face="黑体">阿里巴巴</font>
+## <font color=#C4573C size=4 face="黑体">阿里巴巴</font>
 
 >*  ☐ LRUCache原理
 >*  ☐ 图片加载原理
@@ -66,7 +66,7 @@
 >*  ☐  系统启动流程 Zygote进程 –> SystemServer进程 –> 各种系统服务 –> 应用进程 
 >*  ☐  recycleview listview 的区别,性能
 
-##<font color=#C4573C size=4 face="黑体">滴滴</font>
+## <font color=#C4573C size=4 face="黑体">滴滴</font>
 
 >* ☐ MVP
 >* ☐ 广播（动态注册和静态注册区别，有序广播和标准广播）
@@ -91,7 +91,7 @@
 >* ☐ Android相关优化（如内存优化、网络优化、布局优化、电量优化、业务优化）
 >* ☐ EventBus实现原理
 
-##<font color=#C4573C size=4 face="黑体">美团</font>
+## <font color=#C4573C size=4 face="黑体">美团</font>
 
 >* ☐ 线程挂起，休眠，释放资源相关，唤醒，线程同步，数据传递，问了很多线程的问题，问了20分钟大概
 >* ☐ static synchronized 方法的多线程访问和作用，同一个类里面两个synchronized方法，两个线程同时访问的问题
@@ -107,7 +107,7 @@
 >* ☐ 下拉状态栏是不是影响activity的生命周期，如果在onStop的时候做了网络请求，onResume的时候怎么恢复
 >* ☐ view渲染
 
-#<font color=#C4573C size=5 face="黑体">总结</font>
+# <font color=#C4573C size=5 face="黑体">总结</font>
 
 共同点：
 >* 对基础性、原理性的东西比较重视
