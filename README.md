@@ -1,5 +1,7 @@
 # InterviewMemoirs
+
 #<font color=#C4573C size=5 face="黑体">前言</font>
+
 写这篇面试回忆录的目的：
 >* 梳理一下面试过程的知识点，为了以后可以更直观地回忆
 >* 希望给正在或者准备面试的朋友提供一些帮助
@@ -11,7 +13,9 @@
 >* 没有严格按照一面、二面、三面来区分
 
 #<font color=#C4573C size=5 face="黑体">目录</font>
+
 ##<font color=#C4573C size=4 face="黑体">腾讯OMG</font>
+
 >* ☐ synchronize用法
 >* ☐ volatile用法
 >* ☐ 动态权限适配方案，权限组的概念
@@ -22,6 +26,7 @@
 >* ☐ https相关，如何验证证书的合法性，https中哪里用了对称加密，哪里用了非对称加密，对加密算法（如RSA）等是否有了解
 
 ##<font color=#C4573C size=4 face="黑体">阿里巴巴</font>
+
 >*  ☐ LRUCache原理
 >*  ☐ 图片加载原理
 >*  ☐ 模块化实现（好处，原因）
@@ -60,7 +65,9 @@
 >*  ☐  进程和 Application 的生命周期；
 >*  ☐  系统启动流程 Zygote进程 –> SystemServer进程 –> 各种系统服务 –> 应用进程 
 >*  ☐  recycleview listview 的区别,性能
+
 ##<font color=#C4573C size=4 face="黑体">滴滴</font>
+
 >* ☐ MVP
 >* ☐ 广播（动态注册和静态注册区别，有序广播和标准广播）
 >* ☐ service生命周期
@@ -85,6 +92,7 @@
 >* ☐ EventBus实现原理
 
 ##<font color=#C4573C size=4 face="黑体">美团</font>
+
 >* ☐ 线程挂起，休眠，释放资源相关，唤醒，线程同步，数据传递，问了很多线程的问题，问了20分钟大概
 >* ☐ static synchronized 方法的多线程访问和作用，同一个类里面两个synchronized方法，两个线程同时访问的问题
 >* ☐ 内部类和静态内部类和匿名内部类，以及项目中的应用
@@ -98,7 +106,9 @@
 >* ☐ 怎么启动service，service和activity怎么进行数据交互
 >* ☐ 下拉状态栏是不是影响activity的生命周期，如果在onStop的时候做了网络请求，onResume的时候怎么恢复
 >* ☐ view渲染
+
 #<font color=#C4573C size=5 face="黑体">总结</font>
+
 共同点：
 >* 对基础性、原理性的东西比较重视
 >* 具体问题的解决能力、项目的架构能力
@@ -111,5 +121,5 @@
 >* 有些晦涩的点，或许它只活在面试当中，实际工作当中你压根不会用到它，但是你要知道它是什么东西
 
 
-<center>
+
 ![这里写图片描述](http://img.blog.csdn.net/20170612224924027?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvczAwMzYwM3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
