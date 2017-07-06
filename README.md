@@ -120,7 +120,75 @@
 >* 有些东西你不仅要懂，而且要能够很好地表达出来，能够让面试官认可你的理解，例如Handler机制，这个是面试必问之题
 >* 有些晦涩的点，或许它只活在面试当中，实际工作当中你压根不会用到它，但是你要知道它是什么东西
 
+### 今日头条
+>* ☐ 快速排序
+>* ☐ JSON字符串解析算法及优化
+>* ☐ ABC三个线程，C线程要等A和B线程的结果，AB并行，问，跟什么数据结构类似....，不是问生产者消费者或者信号量什么的，>
+>* ☐ 线程同步的问题，常用的线程同步
+>* ☐ 问项目，根据项目引申：主要有Asynctask和线程池，多进程以及IPC，GC相关（四种引用，怎么判断哪些内存该GC，GC算法），why，when，how  这些都是要从项目里面举出来例子
+>* ☐ 图片加载三级缓存，有一个功能，做一个能放大缩小的图片查看器，加载一张巨大的图片，怎么做
+>* ☐ 图片加载框架优劣比较，以及之前项目选用加载框架时候的考虑
+最佳答案：https://github.com/soulrelay/ImageLoaderUtil
+>* ☐ 网络请求相关，主要是网络请求优化。网络请求的时候遇到的问题
 
+总结：一般一面主要考基础知识，以及基于基础知识解决问题的能力
+  
+ >* ☐ ListView性能优化，以及ListView的各种原理
+ >* ☐ RecyclerView优点，原理
+ >* ☐ 怎么做上传下载的断点续传
+ >* ☐ EventBus原理
+ >* ☐ 四种线程池区别，以及常见应用场景，线程池的深入了解
+ >* ☐ CoordinatorLayout、CollapsingToolbarLayout原理以及使用
+ >* ☐ 数据库性能优化
+ >* ☐ ManiFest原理，APP启动流程，APK打包流程
+  
+  总结：二面主要是看着做的APP问的，APP里涉及到的技术，不管是不是自己负责的模块，只要面试官感兴趣都会问。各种问题最终都要问到底层实现或者原理。
+  
+  
+### 小米
+ >* ☐ 求一个字符串的最长回文
+ >* ☐ 给定一个数，以及有序数组，求出来数组里面两个数的和等于给定数的下标
+ >* ☐ 二叉树中序遍历，深度优先广度优先，不用递归算法的方法
+>* ☐ 求二叉树第k层节点个数；
+ >* ☐ 实现一个栈push，pop，getMaxElementValue，时间复杂度要求0（1）
+ >* ☐ 有序数组0（n）时间复杂度求一组和为sum的数组下标
+>* ☐ AsyncTask内部实现，关注默认线程池是一个串行的线程池；
+>* ☐ 事件的传递方式，View，ViewGroup
+>* ☐ 讲解Activity和Window，View的关系，以及DecorView结构
+>* ☐ 自定义View里面OnMeasure参数的意义
+>* ☐ 讲解一下HandlerThread
+
+总结：小米每一面都会至少有一个算法题
+
+### 知乎/猎豹
+>* ☐ Activity的四种启动模式以及相关概念，Activity栈，常见情境下的生命周期分析，异常关闭页面之后的恢复
+>* ☐ Service基础概念，生命周期，通信。四大组件是基础，常见问题都要掌握
+>* ☐  IPC
+>* ☐ 同步的问题，常见的那些，锁机制，sychronized关键字，concurrent包下的数据结构，atom包下的数据结构
+>* ☐ HashMap原理
+>* ☐ Handler，包括Looper，MessageQueue，ThreadLocal这些类要详细的看
+>* ☐ ArrayList，LinkedList源码要看
+>* ☐ View的事件传递机制，要彻底弄透彻，可问的问题很多
+>* ☐ Asynctask和线程池
+>* ☐ JVM   GC算法，问得比较浅
+>* ☐ JVM  类加载过程，问得比较浅
+>* ☐  DexClassLoader和PathClassLoader的区别
+
+总结：两家面试差不多，都是基础问题，各种常见套路
+
+
+### 网易
+>* ☐ 求笛卡尔积
+>* ☐ 单词反转
+>* ☐ 两个有序数组，时间复杂度最好的情况下，合并成一个数组
+>* ClassLoader，类加载相关问题，例如继承、static修饰的这些在类加载时候的实际应用
+>* 内部类，静态内部类，匿名内部类在加载时候的相关过程
+>* 直接引用和符号引用相关
+>* android dalvik虚拟机里的类加载
+>* scrollview和listview的区别
+>* 热修复/插件化（因为简历上写了这两个，所以导致面试官非常有兴趣，一个劲地问，后来才发现面试官就是搞这一块的，教训是，一定要非常了解才能写啊，千万不要乱写T T）
+
+总结：Android基础知识问的较少，主要问的Java基础和JVM基础
 
 ![这里写图片描述](http://img.blog.csdn.net/20170612224924027?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvczAwMzYwM3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
