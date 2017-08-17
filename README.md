@@ -1,4 +1,4 @@
-不定期把相关知识点进行整理,发布到[Issues](https://github.com/soulrelay/InterviewMemoirs/issues)
+不定期把相关知识点进行整理,发布到[Issues](https://github.com/soulrelay/InterviewMemoirs/issues)，你的star是我前进的动力！
 
 # InterviewMemoirs
 
