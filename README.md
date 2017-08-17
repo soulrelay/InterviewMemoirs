@@ -1,3 +1,5 @@
+不定期把相关知识点进行整理,发布到[Issues](https://github.com/soulrelay/InterviewMemoirs/issues)
+
 # InterviewMemoirs
 
 # <font color=#C4573C size=5 face="黑体">前言</font>
